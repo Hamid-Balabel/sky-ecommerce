@@ -57,7 +57,7 @@
 
 ## API Documentation
 
-### Option 1: View Documentation via Postman
+### View Documentation via Postman
 
 - [Postman API Documentation](https://documenter.getpostman.com/view/29090481/2sAYQdjALv)
 
