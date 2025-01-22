@@ -15,7 +15,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-repo.git](https://github.com/Hamid-Balabel/sky-ecommerce.git)
+   git clone https://github.com/Hamid-Balabel/sky-ecommerce.git
    cd sky-ecommerce
    ```
 
